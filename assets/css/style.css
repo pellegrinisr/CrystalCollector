@@ -12,11 +12,11 @@
     background-color: #cc5500;
     color: white;
     font-size: 2.5rem;
-    padding: 2rem 0 2rem .5rem;
+    padding: 1.5rem 0 1.5rem .5rem;
 }
 .instructions {
     background-color: #ffefd5;
-    padding-bottom: 6rem;
+    padding-bottom: 4rem;
     margin-left: 1rem;
     margin-bottom: .5%;
 }
@@ -66,4 +66,8 @@
     padding: 2rem;
     font-weight: bold;
     color: white;
+}
+.game-over-alert {
+    color: gray;
+    font-weight: bold;
 }
