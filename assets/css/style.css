@@ -1,0 +1,69 @@
+.container-fluid {
+    background-color: #7fffd4;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120%;
+    
+}
+.title {
+    margin-bottom: .25;
+}
+.title h1 {
+    background-color: #cc5500;
+    color: white;
+    font-size: 2.5rem;
+    padding: 2rem 0 2rem .5rem;
+}
+.instructions {
+    background-color: #ffefd5;
+    padding-bottom: 6rem;
+    margin-left: 1rem;
+    margin-bottom: .5%;
+}
+.instructions p {
+    color: #3cb371;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.target-col {
+    padding: 3rem;
+    background-color: #3cb371;
+    margin-left: 1rem;
+    margin-bottom: .5%;
+}
+.target-number {
+    color: #a020f0;
+}
+.wins-losses-col {
+    background-color: #00ffff;
+    margin-left: .5rem;
+    margin-bottom: .5%;
+} 
+.wins-row {
+    padding-bottom: 2rem;
+}
+.gem {
+    width: 75%;
+    height: 12%; 
+    margin-bottom: 5%;
+    
+}
+.red-gem {
+    width: 72%;
+}
+.score-label {
+    background-color: #2e8b57;
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    margin-bottom: .5%;
+}
+.score-col {
+    margin-left: 1rem;
+    background-color: #2e8b57;
+}
+.user-score {
+    padding: 2rem;
+    font-weight: bold;
+    color: white;
+}
