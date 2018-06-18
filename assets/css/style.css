@@ -2,7 +2,7 @@
     background-color: #7fffd4;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 120%;
+    height: 130%;
     
 }
 .title {
@@ -33,6 +33,7 @@
 }
 .target-number {
     color: #a020f0;
+    font-weight: bold;
 }
 .wins-losses-col {
     background-color: #00ffff;
@@ -44,9 +45,7 @@
 }
 .gem {
     width: 75%;
-    height: 12%; 
-    margin-bottom: 5%;
-    
+    height: 75%;   
 }
 .red-gem {
     width: 72%;
@@ -61,6 +60,7 @@
 .score-col {
     margin-left: 1rem;
     background-color: #2e8b57;
+    margin-bottom: 1rem;
 }
 .user-score {
     padding: 2rem;
